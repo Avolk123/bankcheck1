@@ -20,8 +20,8 @@ cursor = link.cursor()
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 banks = ["http://www.sberbank.ru", "https://alfabank.ru", "https://www.rgs.ru","https://www.pochtabank.ru", "https://www.tinkoff.ru", "https://tochka.com", "https://www.vtb.ru", "https://prostobank.online", "https://www.mtsbank.ru", "https://www.uralsib.ru"]
-channel = '@BankiPing'
-token = '5947236655:AAH11BmaezmAVR65Ec9FC_JRkQdEtFtDCm'
+channel = '@bank1check'
+token = '5844091544:AAFE1TfxyX9hQihLBJrpGEbzcM2GFZGtMio'
 
 headers_mobile = { 'User-Agent' : 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B137 Safari/601.1'}
 
